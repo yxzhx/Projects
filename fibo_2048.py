@@ -429,7 +429,7 @@ class Tablero:
 
 
 class Juego:
-    def __init__(self, tam: [int, Tablero], tipo: str):
+    def __init__(self, tam: int | Tablero, tipo: str):
         """el constructor crea un tablero aleatorio o toma el tablero que queremos"""
         self.tam, self.tipo, self.puntos, self.mayor = tam, tipo, 0, 0
         if isinstance(tam, int):
