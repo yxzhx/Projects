@@ -1,6 +1,6 @@
 # Proyectos de Programación y Algoritmos: Fibonacci-2048 y Algoritmos de caminos y grafos
 
-Colección de implementaciones algorítmicas y scripts desarrollados en Python dentro del marco académico del **Grado en Matemáticas (Universidad Complutense de Madrid)**.
+Proyectos desarrollados durante el **Grado en Matemáticas (Universidad Complutense de Madrid)**.
 
 ---
 
